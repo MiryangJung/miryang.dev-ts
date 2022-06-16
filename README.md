@@ -1,7 +1,7 @@
 # Miryang-Nextjs-Blog
 
-`rescript` 로 언어가 변경되면서 이 저장소는 보관되었습니다.  
-As the language was changed with `rescript`, this repository was archived.
+**`rescript` 로 언어가 변경되면서 이 저장소는 보관되었습니다.**  
+**As the language was changed with `rescript`, this repository was archived.**
 
 - [New repository with rescript](https://github.com/MiryangJung/miryang.dev)
 
